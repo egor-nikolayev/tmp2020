@@ -1,0 +1,24 @@
+{
+  "dn": "unique id",
+  "name": "container data",
+  "data": "any meta-data attached with the container",
+  "subContainers": [
+    {
+      "dn": "id1",
+      "name": "container data1",
+      "icon": "glyphicon glyphicon-cloud"
+    },
+    {
+      "dn": "id2",
+      "name": "container data2",
+      "data": "any meta-data attached with the container",
+      "subContainers": [
+        {
+          "dn": "id3",
+          "name": "container data3",
+          "icon": "glyphicon glyphicon-cloud"
+        }
+      ]
+    }
+  ]
+}
