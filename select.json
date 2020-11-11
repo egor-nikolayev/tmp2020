@@ -1,0 +1,5 @@
+{
+  "dn": "unique id",
+  "name": "container data",
+  "data": "any meta-data attached with the container"
+}
